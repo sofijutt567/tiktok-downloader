@@ -2,7 +2,7 @@
   "name": "videofetch-backend",
   "version": "1.0.0",
   "description": "VideoFetch Pro Backend API",
-  "main": "api/download.js",
+  "main": "api/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
